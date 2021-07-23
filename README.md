@@ -1,2 +1,2 @@
-# Daniel_Apps_Ejemplos
+# Ejemplo lògica de dominio
 Repositorio de ejemplos para videos
